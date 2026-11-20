@@ -27,7 +27,7 @@ Profesional en **analítica avanzada, inteligencia artificial y arquitectura de 
 - 🔄 Desarrollo de **pipelines de datos robustos** bajo enfoques **ETL / ELT**.
 - 🧠 Modelos **analíticos y predictivos** que generan valor estratégico para las organizaciones.
 - 🤖 Experto en **RPA**, liderando iniciativas de automatización que reducen costos operativos, mejoran la eficiencia y estandarizan procesos críticos.
-- 🚀 Desarrollo **full-stack** de sistemas de transformación digital para clientes institucionales e industriales en Colombia.
+- 🚀 Desarrollo **full-stack** de sistemas de información.
 - 📍 Manizales, Colombia
 
 ```python
