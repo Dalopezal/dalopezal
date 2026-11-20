@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Dalopezal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Transformo+datos+en+decisiones+%F0%9F%93%8A;Data+Lake+%E2%80%A2+Lakehouse+%E2%80%A2+Data+Warehouse;Inteligencia+Artificial+%26+Machine+Learning+%F0%9F%A4%96;Automatizaci%C3%B3n+Rob%C3%B3tica+de+Procesos+(RPA)+%E2%9A%99%EF%B8%8F;Transformaci%C3%B3n+digital+desde+Manizales%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Transformo+datos+en+decisiones+%F0%9F%93%8A;Data+Lake+%E2%80%A2+Lakehouse+%E2%80%A2+Data+Warehouse;Inteligencia+Artificial+%26+Machine+Learning+%F0%9F%A4%96;Automatizaci%C3%B3n+Rob%C3%B3tica+de+Procesos+(RPA)+%E2%9A%99%EF%B8%8F;Transformaci%C3%B3n+digital+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
   </a>
 </p>
 
