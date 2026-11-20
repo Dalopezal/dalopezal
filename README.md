@@ -1,3 +1,7 @@
+Daniel Alejandro López Álvarez
+Data Engineer | AI Engineer | RPA Developer
+Analytics • Data Lake • Machine Learning • Cloud
+
 ## Quien soy
 
 Profesional en analítica avanzada, inteligencia artificial y arquitectura de datos, con amplia experiencia en el diseño e implementación de soluciones tecnológicas orientadas a la optimización de procesos y la toma de decisiones basada en datos.
